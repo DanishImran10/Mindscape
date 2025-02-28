@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 23ba36b6697e74d4fac8bdc6360be93b
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: fcc3ab469da398e469298df8581fed34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 05 - Default
+    second: {fileID: 2100000, guid: 68c537257f5f60741ba01dd833ddd4c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06 - Default
+    second: {fileID: 2100000, guid: c81c20bf5449ad641a32da69f72c2d57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13 - Brushed Metal #2
+    second: {fileID: 2100000, guid: e605636d1bbdbd345b3804d8179002ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 14 - Polished Aluminum
+    second: {fileID: 2100000, guid: 2b25e484491cc6e40a71afc53fe5303d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 16 - Matte Plastic
+    second: {fileID: 2100000, guid: bc5c767ec6525364f91e4a50cca6f7fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22 - Default
+    second: {fileID: 2100000, guid: 79a90d3fbcde8a0479c21b5582b1f61c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 23 - Default
+    second: {fileID: 2100000, guid: ee16027eab9596c40857c37c56113feb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24 - Default
+    second: {fileID: 2100000, guid: 83507ecaca8aee241b2f2f614b5ce942, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #0
+    second: {fileID: 2100000, guid: b0b2be19718120a498b6ea475f8a0e9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #1
+    second: {fileID: 2100000, guid: 9e25bf875ddddb247a4c869f6ded8125, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2
+    second: {fileID: 2100000, guid: 96daba8a5b6a6864ca871a1da562ebaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #3
+    second: {fileID: 2100000, guid: 6e8dac828c0145b428f257faa3f71241, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #4
+    second: {fileID: 2100000, guid: 21eb49a4950fb7647bdd360eef038f82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 0ae13ab30f5782b44a713c8a628b785b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solid Glass
+    second: {fileID: 2100000, guid: e72c3478fee25c84b822612c62fa46e0, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 165637301-stones-texture-nature-photo-rock-background-mountain-close-up-mountain-texture-high-quality
+    second: {fileID: 2800000, guid: 344fbdc599636b34aa47c7e688a495d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Asphalt025C_2K-JPG_Color
+    second: {fileID: 2800000, guid: 9b07ed9ab4283cc4691424cacfb59051, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ConcretePrecastPlates004_COL_2K_METALNESS
+    second: {fileID: 2800000, guid: 07e1f4d6217750c428012b70495c9920, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric063_2K-JPG_Displacement
+    second: {fileID: 2800000, guid: babd4ed62a18da6419af593812865e7e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ground037_2K-JPG_Color
+    second: {fileID: 2800000, guid: 56c1dad58d3b39d4da2a535932bfcb23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StoneBricksSplitface001_COL_2K
+    second: {fileID: 2800000, guid: a284fd03daadc67409cce4924da553c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TilesTerrazzoVenetianPolished001_BUMP16_2K
+    second: {fileID: 2800000, guid: 2fcaceb7f4044d840b36067ed9b942ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TilesTravertine001_COL_2K
+    second: {fileID: 2800000, guid: 8b250c0df5d2a5146b626aad39eea57c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodFloor0051_1K-JPG_Color
+    second: {fileID: 2800000, guid: cb3e3c6bd85cfe045871fb47a7277875, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pexels-pixabay-220182
+    second: {fileID: 2800000, guid: a3a9e0d28e06fbd47a3a2784b5e5f974, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pexels-pixabay-459572
+    second: {fileID: 2800000, guid: 3183f68cf193cba42a1cd7f68afe2332, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
