@@ -12,8 +12,9 @@ The **Introduction Module** sets the foundation for understanding PTSD:
 - Discusses the **prevalence of PTSD worldwide** and its potential causes.
 - Concludes by explaining **why PTSD happens** and previews upcoming modules.
 
-![Introduction Module Screenshot 1](Mindscape/images/image1.jpg)
-![Introduction Module Screenshot 2](Mindscape/images/image2.jpg)
+<img src="./images/image1.jpg" alt="Introduction Module Screenshot 1" width="500">
+<img src="./images/image2.jpg" alt="Introduction Module Screenshot 2" width="500">
+
 
 ### 2. Symptoms of PTSD
 The **Symptoms Module** dives into the major symptom categories of PTSD:
@@ -23,8 +24,8 @@ The **Symptoms Module** dives into the major symptom categories of PTSD:
 - **Changes in Physical & Emotional Reactions**: Hyperarousal, irritability, sleep issues, and self-destructive behavior.
 - The module includes **interactive activities** where users identify symptom categories based on character animations.
 
-![Symptoms Module Screenshot 1](Mindscape/images/image3.jpg)
-![Symptoms Module Screenshot 2](Mindscape/images/image4.jpg)
+<img src="./images/image3.jpg" alt="Symptoms Module Screenshot" width="500">
+<img src="./images/image4.jpg" alt="Symptoms Module Screenshot" width="500">
 
 ### 3. Triggers and Flashbacks
 The **Triggers and Flashbacks Module** explains how PTSD triggers work:
@@ -66,12 +67,9 @@ Mindscape is designed for:
 - Families of PTSD patients.
 - Educational institutions aiming to teach **empathy and awareness**.
 
-## 🎥 Video Preview
-A look inside the project: [Demo](Mindscape/videos/Demo.mp4)
-
 ## 🖥️ Download
-Download the Windows build from the following path:
-[Mindscape Windows Build](Mindscape/Android%20Build/Mindscape.apk)
+Download the Android build from the following link:
+[Mindscape Android Build](https://drive.google.com/drive/folders/1JLR9l5JJc6zRFgO1n8o07Zh58OIiX4vp?usp=drive_link)
 
 ---
 Mindscape is developed as part of a final year project, with the goal of leveraging immersive technologies to promote mental health education.
