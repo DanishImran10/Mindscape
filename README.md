@@ -12,8 +12,8 @@ The **Introduction Module** sets the foundation for understanding PTSD:
 - Discusses the **prevalence of PTSD worldwide** and its potential causes.
 - Concludes by explaining **why PTSD happens** and previews upcoming modules.
 
-![Introduction Module Screenshot](Mindscape/images/image1.jpg)
-![Introduction Module Screenshot](Mindscape/images/image2.jpg)
+![Introduction Module Screenshot 1](Mindscape/images/image1.jpg)
+![Introduction Module Screenshot 2](Mindscape/images/image2.jpg)
 
 ### 2. Symptoms of PTSD
 The **Symptoms Module** dives into the major symptom categories of PTSD:
@@ -23,8 +23,8 @@ The **Symptoms Module** dives into the major symptom categories of PTSD:
 - **Changes in Physical & Emotional Reactions**: Hyperarousal, irritability, sleep issues, and self-destructive behavior.
 - The module includes **interactive activities** where users identify symptom categories based on character animations.
 
-![Symptoms Module Screenshot](Mindscape/images/image3.jpg)
-![Symptoms Module Screenshot](Mindscape/images/image4.jpg)
+![Symptoms Module Screenshot 1](Mindscape/images/image3.jpg)
+![Symptoms Module Screenshot 2](Mindscape/images/image4.jpg)
 
 ### 3. Triggers and Flashbacks
 The **Triggers and Flashbacks Module** explains how PTSD triggers work:
