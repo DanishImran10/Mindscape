@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - truck
+  - seekh
+  - Selectable
+  - PrefrontalCortex
+  - Amygdaloid
+  - Hippocampus
+  - BrainParts
+  - mod1
+  - mod2
+  - mod3
+  - vuforia
+  - mod2act
+  - mod3act
+  - mod3quiz
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Raycast
+  - PrefrontalCortex
+  - Amydgaloid
+  - Hippocampus
+  - BrainParts
+  - PostProcessing
+  - PostProcessingDistortion
+  - interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
