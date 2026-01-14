@@ -1,0 +1,4 @@
+repository "MindScape_3.O@BasimAbbas@cloud"
+  path "/"
+    br "/main"
+    co "/main"
